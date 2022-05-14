@@ -2,7 +2,7 @@
 [site]
 url = "https://o11y.cn"
 name = "O11Y 杂志"
-description = "专注于可观测性的独立开源技术杂志"
+description = "专注于可观测性领域的独立开源技术杂志"
 locale = "zh"
 menu = [
   { name = "关于", url = "/about" },
@@ -12,6 +12,10 @@ menu = [
 [authors]
 
 [theme]
+primary_color = "#c3e8ff"
+secondary_color = "#faf8f3"
+main_color = "#674646"
+background_image = "/static/bg.svg"
 
 [[issue]]
 slug = "1"
