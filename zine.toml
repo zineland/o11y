@@ -17,6 +17,8 @@ secondary_color = "#faf8f3"
 main_color = "#674646"
 link_color = "#36a5ea"
 background_image = "/static/bg.svg"
+head_template = "templates/head.html"
+footer_template = "templates/footer.html"
 
 [[issue]]
 slug = "1"
