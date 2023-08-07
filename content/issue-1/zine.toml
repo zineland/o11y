@@ -1,10 +1,10 @@
 
 [[article]]
-slug = "1"
-file = "1-first.md"
-title = "First article"
-author = ""
-cover = ""
+slug = "opentelemetry"
+file = "1-opentelemetry.md"
+title = "Opentelemetry 的前世今生"
+author = "Folyd"
+cover = "/static/1/opentelemetry.png"
 pub_date = "2022-05-06"
-publish = false
+publish = true
 featured = true

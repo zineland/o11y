@@ -10,6 +10,7 @@ menu = [
 ]
 
 [authors]
+folyd = { avatar = "/static/avatar/folyd.jpg", editor = true, bio = "" }
 
 [theme]
 primary_color = "#c3e8ff"
